@@ -1,7 +1,7 @@
 screen-size-getter
 ==================
 
-Tie your JS to your actual breakpoints.
+Tie your JS to your actual breakpoints. Check it out here: http://mathiasrechtzigel.com/JS-screensize-getter/
 
 In each of your stylesheets add a qualifier to your body:after {content:"small/medium/large"}
 
