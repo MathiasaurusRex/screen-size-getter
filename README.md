@@ -10,8 +10,13 @@ Invoke this by calling currentWindowSize
 If the functionality changes between small & medium just throw it into a if/else statment.
 
 if (currentWindowSize === "small"){
+
   //Do stuff
+  
   }
+  
   else {
+  
   //Do some other stuff
+  
   }
