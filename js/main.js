@@ -1,5 +1,5 @@
 // Author: Mathias Rechtzigel
-
+// Twitter: @mathiasaurusrex
 // Global Helpers 
 currentWindowSize = "large"; //Default is large because getComputedStyle is kinda wonky in IE8
 
